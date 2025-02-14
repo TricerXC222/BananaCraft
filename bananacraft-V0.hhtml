@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project Not Finished</title>
+    <style>
+        .bold-text {
+            font-weight: bold;
+            background-color: gray;
+            color: white; /* Optional: Change text color for better contrast */
+            padding: 10px; /* Optional: Add some padding */
+            display: inline-block; /* Ensures the background fits the text */
+        }
+    </style>
+</head>
+<body>
+    <div class="bold-text">Project Not Finished</div>
+</body>
+</html>
